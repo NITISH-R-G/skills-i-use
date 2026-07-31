@@ -71,6 +71,13 @@ SwiftUI, Angular, materials simulation, iOS Simulator automation, three.js, pixe
 ### 🃏 Novelty / Productivity
 `caveman` (ultra-compressed communication mode) and its sub-skills — cuts output tokens ~65% while keeping technical accuracy.
 
+### 🏆 HackerRank Orchestrate Intelligence Layer
+Eight skills reverse-engineered from HackerRank's published evaluation methodology (Chakra scoring, the four-signal rubric, and their stated hiring philosophy) — for maximizing Orchestrate scores, and for building genuinely better agents regardless of who's grading. Full research writeup: **[ORCHESTRATE.md](./ORCHESTRATE.md)**.
+
+`orchestrate-phase-gates` · `orchestrate-agent-architecture` · `orchestrate-robustness` · `orchestrate-justification-quality` · `orchestrate-ai-collaboration-transcript` · `orchestrate-self-scoring` · `orchestrate-interview-readiness` · `orchestrate-submission-review`
+
+Also maintained as a standalone, Orchestrate-focused repo: **[hackerrank-orchestrate-skills](https://github.com/NITISH-R-G/hackerrank-orchestrate-skills)**.
+
 ---
 
 ## What makes this collection different
