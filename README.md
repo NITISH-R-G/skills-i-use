@@ -82,6 +82,13 @@ SwiftUI, Angular, materials simulation, iOS Simulator automation, three.js, pixe
 
 Also maintained as a standalone, Orchestrate-focused repo: **[hackerrank-orchestrate-skills](https://github.com/NITISH-R-G/hackerrank-orchestrate-skills)**.
 
+### 🔀 Loop & Graph Engineering
+**8 skills** on designing agentic loops (verifier-as-bottleneck, stop conditions, the turn→goal→time→proactive autonomy ladder) and multi-agent graphs (nodes, edges, fan-out/fan-in, a real reviewer node) — sourced from AI Builder Club's 2026 guides and cross-checked against academic literature (ReAct, Reflexion, and a 2026 arXiv paper on verified multi-agent orchestration that independently corroborates the core "decoupled verification" claim). Every claim is evidence-tiered: practitioner synthesis vs. academic corroboration vs. inference. Full sourcing: standalone repo's [RESEARCH.md](https://github.com/NITISH-R-G/graph-engineering-skills/blob/master/RESEARCH.md).
+
+`loop-vs-graph-decision` · `loop-verifier-design` · `loop-stop-conditions` · `agentic-loop-autonomy-ladder` · `graph-node-and-edge-design` · `graph-reviewer-node` · `agent-ready-codebase` · `compounding-loop-architecture`
+
+Also maintained as a standalone repo: **[graph-engineering-skills](https://github.com/NITISH-R-G/graph-engineering-skills)**.
+
 ---
 
 ## What makes this collection different
