@@ -72,9 +72,11 @@ SwiftUI, Angular, materials simulation, iOS Simulator automation, three.js, pixe
 `caveman` (ultra-compressed communication mode) and its sub-skills — cuts output tokens ~65% while keeping technical accuracy.
 
 ### 🏆 HackerRank Orchestrate Intelligence Layer
-Eight skills reverse-engineered from HackerRank's published evaluation methodology (Chakra scoring, the four-signal rubric, and their stated hiring philosophy) — for maximizing Orchestrate scores, and for building genuinely better agents regardless of who's grading. Full research writeup: **[ORCHESTRATE.md](./ORCHESTRATE.md)**.
+**18 skills**, evidence-cited line by line — grounded in HackerRank's published blog posts, the *official public starter repositories* for the May (support-agent) and June (multi-modal-review) events, and a direct organizer advice post. Every claim is tagged `[evidence]` (a direct quote) or `[inference]` (a reasoned extension), so you always know which is which. Full research writeup: **[ORCHESTRATE.md](./ORCHESTRATE.md)** · Self-scoring rubric: **[SCORING-HEURISTIC.md](./SCORING-HEURISTIC.md)** · **[FAQ](./FAQ.md)**
 
-`orchestrate-phase-gates` · `orchestrate-agent-architecture` · `orchestrate-robustness` · `orchestrate-justification-quality` · `orchestrate-ai-collaboration-transcript` · `orchestrate-self-scoring` · `orchestrate-interview-readiness` · `orchestrate-submission-review`
+**Core flow:** `orchestrate-phase-gates` · `orchestrate-agent-architecture` · `orchestrate-robustness` · `orchestrate-justification-quality` · `orchestrate-ai-collaboration-transcript` · `orchestrate-self-scoring` · `orchestrate-interview-readiness` · `orchestrate-submission-review`
+
+**Tactical (from the official starter repos):** `orchestrate-schema-guardrails` · `orchestrate-failure-handling` · `orchestrate-naming-and-structure` · `orchestrate-secrets-and-determinism` · `orchestrate-edge-case-testing` · `orchestrate-prompt-engineering` · `orchestrate-multi-strategy-evaluation` · `orchestrate-cost-and-ops-metrics` · `orchestrate-multimodal-evidence-grounding` · `orchestrate-escalation-design`
 
 Also maintained as a standalone, Orchestrate-focused repo: **[hackerrank-orchestrate-skills](https://github.com/NITISH-R-G/hackerrank-orchestrate-skills)**.
 
