@@ -10,7 +10,7 @@ No, and be skeptical of anything that claims otherwise. HackerRank's own publish
 Every skill's `SKILL.md` opens with a "Direct evidence" line naming its source. [ORCHESTRATE.md](./ORCHESTRATE.md) and [SCORING-HEURISTIC.md](./SCORING-HEURISTIC.md) explicitly tag every claim `[evidence]` or `[inference]`.
 
 **Do these skills only work for the May/June 2026 challenges?**
-The 8 core skills (`orchestrate-phase-gates` through `orchestrate-submission-review`) target the general four-signal framework, which is stable across events. The 10 tactical skills are grounded in the specific May (support-agent) and June (multi-modal-review) challenge requirements — a future Orchestrate event may have a different schema, but the underlying disciplines (guardrails, failure handling, evidence-grounded justification) should transfer.
+The 8 core skills (`orchestrate-phase-gates` through `orchestrate-submission-review`) target the general four-signal framework, which is stable across events. The 10 tactical skills are grounded in the specific May (support-agent) and June (multi-modal-review) challenge requirements. The 3 design/resilience skills (input tracing, input validation, checkpointing) came from an independent analysis and a participant case study, and are architecture-level practices that transfer to most agent-building tasks regardless of the exact challenge schema.
 
 **Can I use these outside HackerRank Orchestrate?**
 Yes — see the "Beyond the contest" section of [ORCHESTRATE.md](./ORCHESTRATE.md). Nothing here is contest-specific in substance; it's general AI-agent-engineering discipline the contest happens to score explicitly.

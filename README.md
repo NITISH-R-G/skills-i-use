@@ -72,11 +72,13 @@ SwiftUI, Angular, materials simulation, iOS Simulator automation, three.js, pixe
 `caveman` (ultra-compressed communication mode) and its sub-skills — cuts output tokens ~65% while keeping technical accuracy.
 
 ### 🏆 HackerRank Orchestrate Intelligence Layer
-**18 skills**, evidence-cited line by line — grounded in HackerRank's published blog posts, the *official public starter repositories* for the May (support-agent) and June (multi-modal-review) events, and a direct organizer advice post. Every claim is tagged `[evidence]` (a direct quote) or `[inference]` (a reasoned extension), so you always know which is which. Full research writeup: **[ORCHESTRATE.md](./ORCHESTRATE.md)** · Self-scoring rubric: **[SCORING-HEURISTIC.md](./SCORING-HEURISTIC.md)** · **[FAQ](./FAQ.md)**
+**21 skills**, evidence-cited line by line — grounded in HackerRank's published blog posts, the *official public starter repositories* for the May (support-agent) and June (multi-modal-review) events, a direct organizer advice post, an independent engineering analysis (*The Engineer's Notebook*), and a first-hand #1-ranked participant case study. Every claim is tagged `[evidence]` (a direct quote) or `[inference]` (a reasoned extension), so you always know which is which. Full research writeup: **[ORCHESTRATE.md](./ORCHESTRATE.md)** · Self-scoring rubric: **[SCORING-HEURISTIC.md](./SCORING-HEURISTIC.md)** · **[FAQ](./FAQ.md)**
 
 **Core flow:** `orchestrate-phase-gates` · `orchestrate-agent-architecture` · `orchestrate-robustness` · `orchestrate-justification-quality` · `orchestrate-ai-collaboration-transcript` · `orchestrate-self-scoring` · `orchestrate-interview-readiness` · `orchestrate-submission-review`
 
 **Tactical (from the official starter repos):** `orchestrate-schema-guardrails` · `orchestrate-failure-handling` · `orchestrate-naming-and-structure` · `orchestrate-secrets-and-determinism` · `orchestrate-edge-case-testing` · `orchestrate-prompt-engineering` · `orchestrate-multi-strategy-evaluation` · `orchestrate-cost-and-ops-metrics` · `orchestrate-multimodal-evidence-grounding` · `orchestrate-escalation-design`
+
+**Design & resilience (from an independent analysis + a #1-ranked case study):** `orchestrate-input-tracing` · `orchestrate-input-validation-and-overrides` · `orchestrate-checkpoint-resilience`
 
 Also maintained as a standalone, Orchestrate-focused repo: **[hackerrank-orchestrate-skills](https://github.com/NITISH-R-G/hackerrank-orchestrate-skills)**.
 
