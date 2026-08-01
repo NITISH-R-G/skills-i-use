@@ -87,6 +87,15 @@ Also maintained as a standalone, Orchestrate-focused repo: **[hackerrank-orchest
 
 `loop-vs-graph-decision` · `loop-verifier-design` · `loop-stop-conditions` · `agentic-loop-autonomy-ladder` · `graph-node-and-edge-design` · `graph-reviewer-node` · `agent-ready-codebase` · `compounding-loop-architecture`
 
+### 🧠 Persistent Cross-Agent Memory
+**9 skills** implementing a portable, git-committed memory system so a project's context survives switching AI models, providers, coding agents, IDEs, or harnesses mid-work — including abrupt cutoffs (credit exhaustion, crashes), not just clean handoffs. Built on git-committed files plus the `AGENTS.md`/`CLAUDE.md` bootstrap convention every major coding harness already reads, with the official Anthropic MCP memory server adopted for structured recall (Mem0/Redis documented as opt-in upgrades, not rebuilt). Sourced from LangMem, LangChain's long-term memory docs, a 5-pattern architecture catalog, Redis's memory architecture guide, and academic literature — full research report, gap analysis, and architecture: standalone repo's [RESEARCH.md](https://github.com/NITISH-R-G/agent-memory-protocol/blob/master/RESEARCH.md) / [ARCHITECTURE.md](https://github.com/NITISH-R-G/agent-memory-protocol/blob/master/ARCHITECTURE.md).
+
+`memory-bootstrap` · `memory-capture` · `session-checkpoint` · `agent-handoff` · `memory-recall` · `decision-log` · `memory-consolidation` · `memory-hygiene` · `repo-awareness`
+
+Note: `agent-handoff` is a deliberate, richer handoff note distinct from mattpocock's already-installed `handoff`/`claude-handoff` skills (which cover a different kind of session-transfer) — see the skill's own description for how they differ.
+
+Also maintained as a standalone repo, with the reusable `.memory/` template and MCP setup: **[agent-memory-protocol](https://github.com/NITISH-R-G/agent-memory-protocol)**.
+
 Also maintained as a standalone repo: **[graph-engineering-skills](https://github.com/NITISH-R-G/graph-engineering-skills)**.
 
 ---
